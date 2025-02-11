@@ -42,7 +42,8 @@
 
 ## 🎵 Now Playing
 ### 🎵 Now Playing
-[![New Song](https://img.shields.io/badge/Now%20Playing-6jbYpRPTEFl1HFKHk1IC0m-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/LIKE-HIM)
+[![New Song](https://img.shields.io/badge/Now%20Playing-6jbYpRPTEFl1HFKHk1IC0m-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m)
+
 
 ---
 
