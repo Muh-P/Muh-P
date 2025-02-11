@@ -1,9 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Muh-P/NERDY CAT] 👋
 
 🌱 I’m currently learning **PHP & MySQL**  
 🚀 Working on an **Extracurricular Management System**  
 💡 Exploring **Web Development**  
-📫 Reach me at: your.email@example.com  
+📫 Reach me at: Nerd-cat@example.com  
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
