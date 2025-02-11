@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=F7B93E&center=true&width=435&lines=Web+Developer+%7C+PHP+%7C+MySQL;Building+Cool+Projects+%F0%9F%9A%80" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -34,9 +40,9 @@
 
 ---
 
+## 🎵 Now Playing
 ### 🎵 Now Playing
 [![LIKE HIM - Tyler, the Creator](https://img.shields.io/badge/Now%20Playing-LIKE%20HIM%20by%20Tyler%20the%20Creator-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7sCkNU9uTyRxDF8hO6f1dc)
-
 
 ---
 
