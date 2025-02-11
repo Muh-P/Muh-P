@@ -42,7 +42,7 @@
 
 ## 🎵 Now Playing
 ### 🎵 Now Playing
-[![LIKE HIM - Tyler, the Creator](https://img.shields.io/badge/Now%20Playing-LIKE%20HIM%20by%20Tyler%20the%20Creator-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/7sCkNU9uTyRxDF8hO6f1dc)
+[![New Song](https://img.shields.io/badge/Now%20Playing-6jbYpRPTEFl1HFKHk1IC0m-%231DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m)
 
 ---
 
